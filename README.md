@@ -122,3 +122,164 @@ I believe great software is built through:
 - Open Source Contributions
 - Technical Collaborations
 - Hackathons
+
+---
+
+<!-- ========================================================= -->
+<!--                    TECH STACK                             -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30"/> Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts&theme=dark"/>
+
+</p>
+
+### 💻 Programming Languages
+
+| Technology | Experience | Primary Usage |
+|------------|-----------|---------------|
+| C++ | ⭐⭐⭐⭐☆ | DSA, Competitive Programming |
+| Python | ⭐⭐⭐⭐☆ | AI, Machine Learning, Automation |
+| JavaScript | ⭐⭐⭐⭐☆ | Backend & Frontend Development |
+| TypeScript | ⭐⭐⭐☆☆ | Scalable Web Applications |
+| Java | ⭐⭐⭐☆☆ | Object-Oriented Programming |
+| C | ⭐⭐⭐☆☆ | Core Programming Fundamentals |
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,bootstrap&theme=dark"/>
+
+</p>
+
+### 🎨 Frontend Development
+
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Responsive UI Design
+- REST API Integration
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark"/>
+
+</p>
+
+### ⚙️ Backend & Databases
+
+| Category | Technologies |
+|----------|--------------|
+| Runtime | Node.js |
+| Framework | Express.js |
+| Authentication | JWT, bcrypt |
+| APIs | REST API |
+| Database | MongoDB, MySQL, PostgreSQL |
+| ODM | Mongoose |
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vercel,netlify&theme=dark"/>
+
+</p>
+
+### ☁️ Cloud • DevOps • Deployment
+
+- AWS (Learning)
+- Docker
+- Linux
+- Git
+- GitHub
+- GitHub Actions
+- Postman
+- Vercel
+- Netlify
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
+
+</p>
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+| Domain | Technologies |
+|---------|--------------|
+| Machine Learning | Scikit-learn |
+| Deep Learning | TensorFlow, PyTorch |
+| Computer Vision | OpenCV |
+| LLM Frameworks | LangChain |
+| AI Systems | RAG |
+| NLP | Embeddings, Vector Search |
+| Agentic AI | Learning |
+| Prompt Engineering | Advanced |
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,npm,git,bash&theme=dark"/>
+
+</p>
+
+### 🛠️ Developer Tools
+
+- VS Code
+- IntelliJ IDEA
+- PyCharm
+- Git
+- GitHub
+- npm
+- Bash
+- Linux Terminal
+- MongoDB Compass
+- Postman
+
+---
+
+## 📚 Currently Learning
+
+```text
+Backend Architecture
+██████████████████████░░░ 90%
+
+Docker
+███████████████░░░░░░░░░░ 65%
+
+AWS
+████████████░░░░░░░░░░░░░ 55%
+
+System Design
+██████████████░░░░░░░░░░░ 60%
+
+RAG
+█████████████████░░░░░░░░ 75%
+
+Agentic AI
+██████████████░░░░░░░░░░░ 65%
+```
+
+---
+
+## 🎯 Core Engineering Principles
+
+- Clean Code
+- Scalable Architecture
+- Performance Optimization
+- Security Best Practices
+- Maintainable Systems
+- API-First Development
+- Continuous Learning
