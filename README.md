@@ -1,6 +1,4 @@
-from pathlib import Path
 
-md = r'''# Gaurav Khambat
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Gaurav%20Khambat&fontAlignY=38&color=0:4F46E5,50:7C3AED,100:9333EA&fontColor=ffffff"/>
