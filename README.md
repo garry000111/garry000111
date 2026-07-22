@@ -283,3 +283,358 @@ Agentic AI
 - Maintainable Systems
 - API-First Development
 - Continuous Learning
+
+---
+
+<!-- ========================================================= -->
+<!--                  AI / ML EXPERTISE                        -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="30"/> AI / ML Expertise
+
+> I enjoy building practical AI applications by combining machine learning, backend engineering, and modern LLM technologies. My focus is on creating production-ready AI systems rather than only training models.
+
+---
+
+## AI Engineering Dashboard
+
+| Domain | Current Level | Technologies | Practical Experience |
+|----------|---------------|--------------|----------------------|
+| Machine Learning | ⭐⭐⭐⭐☆ | Scikit-learn, NumPy, Pandas | Classification, feature engineering, model evaluation |
+| Deep Learning | ⭐⭐⭐☆☆ | TensorFlow, PyTorch | CNN, LSTM, neural network fundamentals |
+| Natural Language Processing | ⭐⭐⭐☆☆ | TF-IDF, Embeddings | Sentiment Analysis, text preprocessing |
+| LLM Engineering | ⭐⭐⭐☆☆ | LangChain, Hugging Face | Chat applications, prompt engineering, local & API-based models |
+| Retrieval-Augmented Generation (RAG) | ⭐⭐⭐☆☆ | LangChain, Vector Embeddings | Learning retrieval pipelines and document-based AI |
+| Computer Vision | ⭐⭐⭐☆☆ | OpenCV | Image processing, Sign Language Recognition |
+| Backend AI | ⭐⭐⭐⭐☆ | Node.js, Express, Python | AI-powered REST APIs and backend integration |
+| Agentic AI | ⭐⭐☆☆☆ | Multi-step workflows | Currently learning planning and autonomous agents |
+
+---
+
+## AI Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+
+</p>
+
+### Libraries & Frameworks
+
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- LangChain
+- Hugging Face Transformers
+
+---
+
+## AI Projects
+
+| Project | AI Domain | Status |
+|---------|-----------|--------|
+| Amazon Product Review Sentiment Analysis | NLP / Machine Learning | ✅ Completed |
+| Sign Language Recognition | Computer Vision | ✅ Completed |
+| AI Virtual Try-On | Generative AI | 🚧 In Progress |
+| Viral Content Prediction | AI Analytics | 📌 Planned |
+| RAG Chat Application | LLM Engineering | 🚧 Learning Project |
+
+---
+
+## Current Learning Roadmap
+
+```text
+Machine Learning
+███████████████████████░ 90%
+
+Deep Learning
+███████████████████░░░░░ 75%
+
+Computer Vision
+████████████████░░░░░░░░ 70%
+
+LLM Engineering
+████████████████░░░░░░░░ 70%
+
+LangChain
+█████████████████░░░░░░░ 75%
+
+RAG
+███████████████░░░░░░░░░ 65%
+
+Agentic AI
+████████████░░░░░░░░░░░░ 55%
+
+System Design for AI
+████████████░░░░░░░░░░░░ 55%
+```
+
+---
+
+## Engineering Philosophy for AI
+
+```text
+Collect Data
+        │
+        ▼
+Preprocess Data
+        │
+        ▼
+Train / Fine-tune Model
+        │
+        ▼
+Evaluate Performance
+        │
+        ▼
+Expose Model through Backend APIs
+        │
+        ▼
+Deploy to Production
+        │
+        ▼
+Monitor & Improve
+```
+
+---
+
+## Areas I'm Exploring
+
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- AI-powered Backend Systems
+- Vector Databases
+- Prompt Engineering
+- Model Deployment
+- Distributed AI Systems
+- AI Infrastructure
+
+---
+
+## Long-Term Goal
+
+Build scalable AI products that combine:
+
+- Backend Engineering
+- Cloud Infrastructure
+- Large Language Models
+- Modern Software Architecture
+- Production-grade APIs
+- Intelligent Automation
+
+---
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"/> Featured Projects
+
+> I enjoy building software that combines strong backend engineering with practical AI solutions. These projects represent my current learning journey and engineering interests.
+
+---
+
+<details open>
+<summary><b>🏦 Enterprise Banking Transaction System</b></summary>
+
+### Overview
+
+A backend-focused banking system designed to simulate real-world financial operations with authentication, authorization, secure transactions, and production-oriented architecture.
+
+### Tech Stack
+
+`Node.js` • `Express.js` • `MongoDB` • `JWT` • `bcrypt` • `Mongoose`
+
+### Highlights
+
+- User Authentication
+- Secure JWT Authorization
+- Account Management
+- Deposit & Withdrawal
+- Money Transfer
+- Transaction History
+- Protected Routes
+- RESTful API Design
+- Environment Variables
+- MVC Architecture
+
+### What I'm Learning
+
+- Production Backend Design
+- Authentication Flow
+- Middleware
+- API Security
+- Error Handling
+- Backend Best Practices
+
+**Status:** 🚧 In Progress
+
+**Repository:** *(Add repository link here after publishing)*
+
+</details>
+
+---
+
+<details open>
+<summary><b>🍔 ScrollBite – Short Video Food Delivery Platform</b></summary>
+
+### Overview
+
+A modern food delivery platform inspired by short-form content. Instead of static food images, restaurants showcase dishes using engaging vertical videos.
+
+### Planned Features
+
+- Vertical Food Feed
+- AI Food Recommendations
+- Restaurant Discovery
+- Search & Filters
+- Cart & Checkout
+- User Authentication
+- Order Tracking
+- Restaurant Dashboard
+- Admin Panel
+
+### Tech Stack
+
+React • Node.js • Express • MongoDB • Cloudinary
+
+### Focus Areas
+
+- Backend APIs
+- Recommendation Systems
+- Scalable Architecture
+- Modern UI/UX
+
+**Status:** 🚧 In Development
+
+**Repository:** *(Add repository link here after publishing)*
+
+</details>
+
+---
+
+<details open>
+<summary><b>🧠 Amazon Product Review Sentiment Analysis</b></summary>
+
+### Overview
+
+A machine learning application that predicts customer sentiment from Amazon product reviews using multiple supervised learning models.
+
+### Technologies
+
+Python • Scikit-learn • Pandas • NumPy • TF-IDF
+
+### Implemented Models
+
+- Logistic Regression
+- Naive Bayes
+- Random Forest
+- XGBoost
+- LSTM (Experimental)
+
+### Features
+
+- Text Cleaning
+- Feature Engineering
+- TF-IDF Vectorization
+- Model Comparison
+- Sentiment Prediction
+- Evaluation Metrics
+
+### Learning Outcomes
+
+- NLP Pipeline
+- Data Preprocessing
+- Model Evaluation
+- Machine Learning Workflow
+
+**Status:** ✅ Completed
+
+**Repository:** https://github.com/garry000111/amazon-product-review-sentiment-analysis
+
+</details>
+
+---
+
+<details open>
+<summary><b>🤟 Real-Time Sign Language Recognition</b></summary>
+
+### Overview
+
+A computer vision project that recognizes hand gestures in real time using webcam input and deep learning concepts.
+
+### Technologies
+
+Python • OpenCV • MediaPipe • TensorFlow
+
+### Features
+
+- Live Webcam Detection
+- Hand Landmark Detection
+- Gesture Recognition
+- Image Processing
+- Deep Learning Pipeline
+
+### Learning Outcomes
+
+- Computer Vision
+- MediaPipe
+- OpenCV
+- CNN Fundamentals
+- Real-Time Processing
+
+**Status:** ✅ Completed
+
+**Repository:** *(Add repository link here if public)*
+
+</details>
+
+---
+
+<details>
+<summary><b>👕 AI Virtual Try-On</b></summary>
+
+### Vision
+
+An AI-powered platform where users upload their photo along with clothing items and preview how outfits would look before purchasing.
+
+### Planned Features
+
+- Virtual Clothing Try-On
+- AI Outfit Generation
+- Shopping Link Import
+- Wardrobe Management
+- Outfit Recommendations
+- Side-by-Side Comparison
+
+### Technologies
+
+React • Python • Diffusion Models • Computer Vision
+
+**Status:** 💡 Planning & Research
+
+</details>
+
+---
+
+## What I'm Building Next
+
+- Retrieval-Augmented Generation (RAG) Assistant
+- AI Resume Analyzer
+- Distributed URL Shortener
+- Backend Notification Service
+- Dockerized Microservices
+- AWS Deployment Projects
+
+---
+
+## Engineering Goals
+
+- Build production-ready backend systems
+- Improve software architecture skills
+- Learn distributed systems
+- Deploy applications with Docker & AWS
+- Integrate AI into real-world software
